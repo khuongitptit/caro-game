@@ -2,7 +2,7 @@ FROM node:16 As development
 
 WORKDIR /usr/src/app
 
-ENV NODE_ENV production
+ENV NODE_ENV development
 
 COPY package*.json ./
 
