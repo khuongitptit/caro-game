@@ -1,0 +1,20 @@
+{
+  "required": "This field is required.",
+  "min": "Please enter a number greater or equal to {{number}}.",
+  "mustBeInteger": "Please enter an integer.",
+  "diastolicMustBeSmallerThanSystolic": "For diastolic pressure, enter a value less than the systolic pressure.",
+  "pleaseRecheckInput": "Please check your input again.",
+  "onlyHalfWidth": "Please enter half-width number",
+  "minMax": "Please enter between {{min}} and {{max}} digits",
+  "onlyNumberOfDigit": "Please enter {{number}} digits",
+  "maxLength": "Please enter within {{number}} characters.",
+  "notNumberOrSpecialCharacter": "No numbers or special characters are allowed",
+  "fullWidthKatakana": "Please enter in the full-width katakana",
+  "password": "※Enter a password with at least 1 single-byte alphanumeric character and no more than 16 characters. \n※The same character string or number of 4 or more characters cannot be included repeatedly",
+  "requiredPassword": "Please enter your password",
+  "matchCurrentPassword": "Your new password is similar to your current password",
+  "matchNewPassword": "Password and confirmation password do not match",
+  "fieldMustBeInteger": "Please enter a numeric value for {{fieldName}}",
+  "requiredEmail": "Please enter your email address",
+  "patternEmail": "The input format of the e-mail address is incorrect"
+}

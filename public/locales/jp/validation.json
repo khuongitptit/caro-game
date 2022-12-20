@@ -1,0 +1,20 @@
+{
+  "required": "必須項目です。",
+  "min": "{{number}}以上の値を入力してください。",
+  "mustBeInteger": "整数を入力してください。",
+  "diastolicMustBeSmallerThanSystolic": "最低血圧には、最高血圧未満の値を入力してください。",
+  "pleaseRecheckInput": "入力値を再度確認してください。",
+  "onlyHalfWidth": "半角数字で入力してください。",
+  "minMax": "{{min}}桁以上{{max}}桁以内で入力してください。",
+  "onlyNumberOfDigit": "{{number}}桁で入力してください。",
+  "maxLength": "{{number}}文字以内で入力してください。",
+  "notNumberOrSpecialCharacter": "数字や特殊文字は使用できません。",
+  "fullWidthKatakana": "全角カタカナで入力してください。",
+  "password": "※パスワードは半角英数字をそれぞれ1文字以上使用し8文字以上、16文字以内で入力してください。\n※4文字以上の同じ文字列・数字を繰り返し含むことはできません。",
+  "requiredPassword": "パスワードを入力してください。",
+  "matchCurrentPassword": "新しいパスワードが現行のパスワードと似ています。",
+  "matchNewPassword": "パスワードと確認用のパスワードが一致していません。",
+  "fieldMustBeInteger": "{{fieldName}}には数値で入力してください",
+  "requiredEmail": "メールアドレスを入力してください。",
+  "patternEmail": "メールアドレスの入力形式が正しくありません"
+}
